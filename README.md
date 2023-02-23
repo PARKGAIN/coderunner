@@ -1,6 +1,6 @@
-<div> 
-<img src="https://user-images.githubusercontent.com/84880886/219424253-68a0686c-ffee-4897-91dd-cd4ff497453e.png" width="80"/> <span>Slack</span>
-</div>
+
+<img src="https://user-images.githubusercontent.com/84880886/219424253-68a0686c-ffee-4897-91dd-cd4ff497453e.png" width="80"/><h2>Slack</h2>
+
 
 ## 😁 프로젝트 소개
 
