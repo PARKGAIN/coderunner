@@ -1,4 +1,6 @@
-# ![slack](https://user-images.githubusercontent.com/84880886/219424253-68a0686c-ffee-4897-91dd-cd4ff497453e.png) Slack
+<div> 
+<img src="https://user-images.githubusercontent.com/84880886/219424253-68a0686c-ffee-4897-91dd-cd4ff497453e.png" width="80"/> <span>Slack</span>
+</div>
 
 ## 😁 프로젝트 소개
 
@@ -13,6 +15,8 @@
 |  [장소명](https://github.com/uuuouuo)      |  [박가인](https://github.com/PARKGAIN)  |
 
 ## 🎮 기술스택
+### Frontend
+### Backend
 
 ## 💻 주요기능
 
@@ -22,7 +26,7 @@
 
 ## 📂 폴더 구조
 
-## 깃 브랜치
+## ✨ 깃 브랜치전략
 
 - `feature`: 기능을 개발하는 브랜치로 기능 개발을 완료하면 `develop`로 병합
 - `develop`: 평소에는 이 브랜치를 기반으로 개발을 진행하며 테스트를 완료한 후 master브랜치로 병합
