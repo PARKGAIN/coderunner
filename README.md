@@ -16,9 +16,24 @@
 
 ## 🎮 기술스택
 ### Frontend
-
+- React 18
+- Recoil
+- Styled-Components
+- Sock.js
+- Stompjs
 
 ### Backend
+- Java 11
+- Spring boot 2.7.8
+- Spring Cloud 2021.0.5
+- Spring Data JPA
+- Spring Websocket
+- STOMP
+- Socket.io
+- SockJS
+- Redis 2.5.4
+- Node.js
+- MySQL
 
 ## 💻 주요기능
 ### 회원가입/로그인
@@ -31,10 +46,17 @@
 <img src="https://user-images.githubusercontent.com/84880886/220948668-5cc91d99-be28-4c7f-92d6-fe089a08a165.png" width="860"/>
 
 ## ✏️ Editor
+- Visual Studio Code
+- IntelliJ IDE
 
 ## 🤝 Communication
+- Notion
+- Slack
+- Git
 
 ## 📂 폴더 구조
+### Frontend
+### Backend
 
 ## ✨ 깃 브랜치전략
 
